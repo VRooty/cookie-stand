@@ -1,0 +1,14 @@
+header {
+    
+    background-color: lightsalmon;
+    border-color: rgb(230, 88, 88);
+    border-width: 16px;
+    border-style: dashed;
+    align-items: center;
+    font-family: cursive;
+
+}
+
+img {
+    align-content: center
+}
